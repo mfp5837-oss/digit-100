@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <metadata> 
+    <title>The Raven</title>
+    <author>Edgar Allen Poe</author>
+    <location>west side new york city</location>
+    <date year ="1845" month="01" day="29"></date>
+    <publisher>The New York Mirror</publisher>
+    </metadata>
+    <!-- His wife at the time had tuberculosis and was slowly dying when this was written -->
+    <!-- The New York Mirror was a 19th century weekly literary and arts magazine founded in 1823 by Morris and Woodworth -->
+<rhyme scheme ="A">Presently my soul grew <internal rhyme="A">stronger;</internal> hesitating then no <internal rhyme="A">longer,</internal></rhyme>
+<rhyme scheme ="B">“Sir,” said I, “or Madam, truly your forgiveness I <word term="implore" def="to beg desperatley">implore;</word></rhyme> 
+<rhyme scheme ="C">But the fact is I was <internal rhyme="B">napping,</internal> and so gently you came <internal rhyme="B">rapping,</internal></rhyme>
+<rhyme scheme ="B">And so faintly you came tapping, tapping at my chamber door,</rhyme>
+<rhyme scheme ="B">That I scarce was sure I heard you”—here I opened wide the door;—</rhyme>
+<rhyme scheme ="B">Darkness there and nothing more.</rhyme>
+
+<rhyme scheme ="A">Deep into that darkness <internal rhyme="A">peering,</internal> long I stood there wondering, <internal rhyme="A">fearing,</internal></rhyme>
+<rhyme scheme ="B">Doubting, dreaming dreams no mortal ever dared to dream before;</rhyme>
+<rhyme scheme ="C">But the silence was <internal rhyme="B">unbroken,</internal> and the stillness gave no <internal rhyme="B">token,</internal></rhyme>
+<rhyme scheme ="B">And the only word there spoken was the whispered word, “Lenore?”</rhyme> <!-- Lenore is interpreted as seceral women in Poe's live, primarliy his wife Virginina Clemm -->
+<rhyme scheme ="B">This I whispered, and an echo murmured back the word, “Lenore!”—</rhyme>
+<rhyme scheme ="B">Merely this and nothing more.</rhyme>
+
+<rhyme scheme ="A">Back into the chamber <internal rhyme="A"> turning,</internal> all my soul within me <internal rhyme="A">burning,</internal></rhyme>
+<rhyme scheme ="B">Soon again I heard a tapping somewhat louder than before.</rhyme>
+<rhyme scheme ="C">“Surely,” said I, “surely that is something at my window lattice;</rhyme>
+<rhyme scheme ="B">Let me see, then, what thereat is, and this mystery explore—</rhyme>
+<rhyme scheme ="B">Let my heart be still a moment and this mystery explore;—</rhyme>
+<rhyme scheme ="B">’Tis the wind and nothing more!”</rhyme>
+</poem>
