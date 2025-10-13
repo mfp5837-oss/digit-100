@@ -1,20 +1,9 @@
-body {
-
-    /*background:papayaWhip*/
-    background: LightSteelBlue;
-    font-family: Comic-sans, Arial, Helvetica, sans-serif;
-}
-
+body { /*background:papayaWhip*/background: pink;
+    font-family: Arial, Avantgarde, sans-serif;}
+    
 div.side-by-side {
-    display: flex;
-}
+  display: flex;}
 
-img {
-    width: 59%;
-    max-width: 500px;
-}
+img {width: 59%; max-width: 500px;}
 
-.featureBlock {
-    background-color:pink;
-    font-size: smaller;
-}
+.featureBlock {background-color:orange; font-size: smaller;}
