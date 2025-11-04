@@ -12,7 +12,7 @@ img {width: 59%; max-width: 500px;}
 
 .button {color:white; font-family:roman, 'times new roman', times, serif;}
 
-.box {border-style:dashed; border-color:red; margin:5%}
+.box {border-style:dashed; border-color:blue; margin:5%}
 
 div.threeD{}
 div.threeD iframe{width:90%; max-width:1280px; max-height:840px;}
