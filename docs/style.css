@@ -20,3 +20,8 @@ div.threeD iframe{width:90%; max-width:1280px; max-height:840px;}
 .text{float:bottom}
 
 .footer{width: 90%}
+
+.imgzoom{display: flex; flex-flow: row wrap; align-items: center; width: 75%; margin: 15px auto; padding: 1%; border-radius: 12px;}
+    
+
+.imgzoom img:hover {transform: scale(1.4);}
