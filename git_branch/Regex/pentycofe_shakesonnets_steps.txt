@@ -1,0 +1,3 @@
+ First I used ^(?!\s*$)(?![IVXLCDM]+\s*$)(.+)$ and replaced it with <line>$1</line> this wrapped each line in a line tag
+Then I used ^\s*<line>\s*([IVXLCDM]+)\s*</line>\s*$ and replaced </sonnet> <sonnet number="$1"> to wrap the roman numbers 
+Then i wrapped the doc in xml tags
