@@ -1,0 +1,5 @@
+I used ^[IVXLCDM]+\.\s+(.*)$ to find the roman numbers and each chapter name tobreplace it with <chapter><title>$1</title>
+Next I used ((?:[^\r\n]+\r?\n)+)\r?\n to put <p> tages around paragraphs and replaced it with ((?:[^\r\n]+\r?\n)+)\r?\n
+Lastly I used \n<chapter> and then i replaced it with \n</chapter><chapter> to create ending closing tags
+ 
+
