@@ -26,4 +26,25 @@ div.threeD iframe{width:90%; max-width:1280px; max-height:840px;}
 
 .imgzoom img:hover {transform: scale(1.4);}
 
-#sq:hover {fill: white;}
+
+
+#rec:hover {fill:green}
+#poly:hover {fill:black}
+#rec2:hover {fill:brown}
+#rec3:hover {fill:aqua}
+#rec4:hover {fill:yellow}
+
+:root {--green: #0f0; --blue: #00f; --pink: #ffc0cb; --purple: #800080; --teal: #5adbab; --transparent: #5adbab00; --white: #fff;}
+
+#greenrect {fill: var(--green); transform-box: fill-box; transform-origin: center; transition: transform 1s ease;}
+
+#greenrect:hover {transform: translate(0, -50px);}
+
+#bluecircle {fill:var(--blue); transform-box: fill-box; transform-origin: center; transition: transform 2s ease;}
+#bluecircle:hover {transform: translate(40px, 0);}
+
+#tealrect {fill: var(--transparent); transform-box: fill-box; transform-origin: center; transition: transform 1s ease;}
+#tealrect:hover {transform:translate(0,30px);}
+
+#whitecircle {fill: var(--white); transform-box: fill-box; transform-origin: center; transition: transform 2s ease;}
+#whitecircle:hover {transform:translate(-20px,0);}
